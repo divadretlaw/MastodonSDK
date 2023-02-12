@@ -1,57 +1,57 @@
 {
   "pins" : [
     {
-      "identity" : "brightfutures",
+      "identity" : "appauth-ios",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/Thomvis/BrightFutures.git",
+      "location" : "https://github.com/openid/AppAuth-iOS",
       "state" : {
-        "revision" : "fa66fa183dce7196d431244d0215748cd14c5758",
-        "version" : "8.2.0"
+        "revision" : "3d36a58a2b736f7bc499453e996a704929b25080",
+        "version" : "1.6.0"
       }
     },
     {
-      "identity" : "erik",
+      "identity" : "bodega",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/phimage/Erik.git",
+      "location" : "https://github.com/mergesort/Bodega.git",
       "state" : {
-        "revision" : "109a130e9cdb00789a43a7a625293eeb12d22989",
-        "version" : "5.1.0"
+        "revision" : "3e7c1c58ad9a46aa8551cebfe87770003cdaaaca",
+        "version" : "2.0.2"
       }
     },
     {
-      "identity" : "filekit",
+      "identity" : "boutique",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/nvzqz/FileKit.git",
+      "location" : "https://github.com/mergesort/Boutique",
       "state" : {
-        "revision" : "826d9161b184509f80d85c28cd612d630646de98",
-        "version" : "6.0.0"
+        "revision" : "b5b697de67100edc4b2d5c74724f3c1068b49d4e",
+        "version" : "2.1.1"
       }
     },
     {
-      "identity" : "kanna",
+      "identity" : "html2markdown",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/tid-kijyun/Kanna.git",
+      "location" : "https://github.com/divadretlaw/HTML2Markdown",
       "state" : {
-        "revision" : "f9e4922223dd0d3dfbf02ca70812cf5531fc0593",
-        "version" : "5.2.7"
+        "revision" : "2bc809d2c4b48473e9c07bedb8d5d61243075dcb",
+        "version" : "1.1.0"
       }
     },
     {
-      "identity" : "oauthswift",
+      "identity" : "sqlite.swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/OAuthSwift/OAuthSwift.git",
+      "location" : "https://github.com/stephencelis/SQLite.swift.git",
       "state" : {
-        "revision" : "d85964b96dbce94df961f28b996187c835089903",
-        "version" : "2.2.0"
+        "revision" : "4d543d811ee644fa4cc4bfa0be996b4dd6ba0f54",
+        "version" : "0.13.3"
       }
     },
     {
-      "identity" : "swifter",
+      "identity" : "swift-collections",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/httpswift/swifter.git",
+      "location" : "https://github.com/apple/swift-collections",
       "state" : {
-        "revision" : "9483a5d459b45c3ffd059f7b55f9638e268632fd",
-        "version" : "1.5.0"
+        "revision" : "48254824bb4248676bf7ce56014ff57b142b77eb",
+        "version" : "1.0.2"
       }
     }
   ],
